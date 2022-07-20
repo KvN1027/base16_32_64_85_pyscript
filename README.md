@@ -2,6 +2,6 @@
 給CTFㄉbase16、32、64、85的python script
 
 ## usage
-```python=25
+```python=
 flag = '要解碼ㄉstring'
 ```
