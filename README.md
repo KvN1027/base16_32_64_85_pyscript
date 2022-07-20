@@ -5,3 +5,7 @@
 ```python=
 flag = '要解碼ㄉstring'
 ```
+
+## example
+#83 not hard
+[https://ctf.hackme.quest/scoreboard/?capture=the_flag](https://ctf.hackme.quest/scoreboard/?capture=the_flag)
